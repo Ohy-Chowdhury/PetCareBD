@@ -1,0 +1,4 @@
+Dog,P001,Bruno,Labrador,2,Male,10000.0,AVAILABLE
+Cat,P002,Mimi,Persian,1,Female,8000.0,ADOPTED
+Bird,P003,Coco,Parrot,3,Male,5000.0,AVAILABLE
+Cat,P005,Mini,Persian,9,Male,1000.0,Available
